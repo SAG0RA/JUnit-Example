@@ -1,6 +1,6 @@
 
 public class Subscripcion {
-	 private int precio ; // precio total de la subscripción euro-cent
+	 private int precio ; // precio total de la subscripción
 	 private int periodo ; // periodo de subscripcion en meses
 	 /**
 	 * El constructor para crear una subscripción.
